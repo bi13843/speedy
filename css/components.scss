@@ -1,0 +1,13 @@
+$base-color: rgba(99, 83, 93, .8);
+
+body {
+   background-color: $base-color;
+ }
+
+a {
+  box-sizing: border-box;
+  &:hover {
+    color: $base-color;
+    text-decoration: underline;
+  }
+}

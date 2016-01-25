@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(44, 119, 70, 0.57);
+  border-style: ridge;
+  a {
+    text-transform: uppercase;
+    }
+}
