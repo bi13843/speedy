@@ -10,3 +10,8 @@ a:hover {
   color: rgba(99, 83, 93, 0.8);
   text-decoration: underline;
 }
+
+p {
+  margin: 10% 0;
+  color: #ccc;
+}

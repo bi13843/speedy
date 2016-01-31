@@ -9,7 +9,7 @@ This is an _unordered list_
 1. First item
   * Subitem with **bold text**.
   * Second subitem.
-  * And much much more.
+  * And much much more; lots more.
 
 2. Second [item](http//google.com).
 
